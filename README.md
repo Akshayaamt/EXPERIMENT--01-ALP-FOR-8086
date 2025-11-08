@@ -1,6 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-# Name : Abhishek Kannan M
-# Roll no 212224040007
+# NAME : AKSHAYAA M T
+# REG NO : 212223110002
+# Date : 08/11/2025
 
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
@@ -101,11 +102,3 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ## Result :
  
 Thus ,ALP for fundamental arithmetic and logical operations are executed successfully.
-
-
-
-
-
-
-
-
